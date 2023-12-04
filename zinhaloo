@@ -8,3 +8,5 @@ vless://569da474-892b-40fe-9a77-910ad2c0b2ce@zinhaloo.zclkto.workers.dev:2096?pa
 vless://569da474-892b-40fe-9a77-910ad2c0b2ce@zinhaloo.zclkto.workers.dev:2083?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=zinhaloo.zclkto.workers.dev&fp=chrome&type=ws&sni=zinhaloo.zclkto.workers.dev#New7
 vless://569da474-892b-40fe-9a77-910ad2c0b2ce@zinhaloo.zclkto.workers.dev:2053?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=zinhaloo.zclkto.workers.dev&fp=android&type=ws&sni=zinhaloo.zclkto.workers.dev#New8
 vless://569da474-892b-40fe-9a77-910ad2c0b2ce@zinhaloo.zclkto.workers.dev:2087?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=zinhaloo.zclkto.workers.dev&fp=edge&type=ws&sni=zinhaloo.zclkto.workers.dev#New9
+vless://066b2bbc-5a1f-4771-90ef-fc4f719cdd3d@104.31.16.89:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=SATOSHI.MOM#Home1
+vless://066b2bbc-5a1f-4771-90ef-fc4f719cdd3d@104.31.16.89:443?path=%2Fws&security=tls&encryption=none&host=FI.SATOSHI.MOM&fp=chrome&type=ws&sni=SATOSHI.MOM#Home2
