@@ -23,3 +23,5 @@ vless://7a5f2d55-6363-4ee2-be8b-858a65ad81ef@104.22.11.129:443?path=%2F%3Fed%3D2
 vless://6fc4006e-6fc0-42e9-8c2c-191087060454@104.31.16.173:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=SATOSHI.MOM#Home1
 vless://6fc4006e-6fc0-42e9-8c2c-191087060454@104.31.16.222:443?path=%2Fws&security=tls&encryption=none&host=FI.SATOSHI.MOM&fp=chrome&type=ws&sni=SATOSHI.MOM#Home2
 vless://6fc4006e-6fc0-42e9-8c2c-191087060454@104.31.16.222:443?path=%2Fws&security=tls&encryption=none&host=FI.SATOSHI.MOM&fp=chrome&type=ws&sni=SATOSHI.MOM#Home3
+vless://71c4ab78-6472-4ebd-98a7-6197db7c9223@daee.tnwwdfv.WorKeRS.deV:2083?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=daee.tnwwdfv.WorKeRS.deV&fp=safari&type=ws&sni=daee.tnwwdfv.WorKeRS.deV#Home4
+vless://c0d96d4a-5274-4492-98f2-6e18a3ec8b92@zandaee.tnwwdfv.WOrKeRs.Dev:8443?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=zandaee.tnwwdfv.WOrKeRs.Dev&fp=chrome&type=ws&sni=zandaee.tnwwdfv.WOrKeRs.Dev#Home5
