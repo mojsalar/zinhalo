@@ -1,5 +1,5 @@
 vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@cdnjs.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=public.satoshi.mom&fp=chrome&type=ws&sni=public.SATOSHI.MOM#1
 vless://9e60d388-51e9-4b81-afab-2b7afee91033@104.25.38.239:80?path=%2FOo8ihIMGW-81NFGJ%3Fed%3D2048&security=none&encryption=none&host=moz.soft98.dedyn.io&type=ws#2
-vless://48bd4d22-e42f-4749-af6a-85ecf716c823@172.67.73.163:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=fkhamnei.kosnanatfilterchi.eu.org&type=ws&sni=fkhamnei.kosnanatfilterchi.eu.org#3
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.59.125:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#3
 vless://9e60d388-51e9-4b81-afab-2b7afee91033@104.25.38.239:443?path=%2FOo8ihIMGW-81NFGJ%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=moz.soft98.dedyn.io&fp=randomized&type=ws&sni=moz.soft98.dedyn.io#4
 vless://7a5f2d55-6363-4ee2-be8b-858a65ad81ef@104.25.254.78:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=zara.zinhalo.workers.dev&fp=chrome&type=ws&sni=zara.zinhalo.workers.dev#5
