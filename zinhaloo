@@ -9,5 +9,4 @@ vless://0c18cf1b-2e78-4989-8d98-28284cc2e49a@nestle.ir:2096?mode=gun&security=tl
 vless://416339cf-dadd-4831-987b-80f8434d2ebe@172.67.179.225:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=zs10.livingspringonline.com#9
 vless://2d0c5bf8-53b9-4421-8f9d-eb34c9e4d5c6@185.146.173.20:8080?path=%2Fbackup&security=none&encryption=none&host=QAWDrgrYHuujjIKYHRDed_._.cdn-mci.online&type=ws#10
 vless://config-injectorV2@190.93.247.155:8080?path=%2F&security=none&encryption=none&host=config-injectorV2-V2ray.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B799.tech&type=ws#11
-vless://b08c6c40-ea86-4094-8780-3555278403b1@49.13.117.54:8880?path=%2F&security=none&encryption=none&host=speedtest.net&type=ws#12
-vless://0c18cf1b-2e78-4989-8d98-28284cc2e49a@gcore.com:80?path=%2Faparat.com&security=none&encryption=none&host=sirkar.com&type=ws#13
+vless://0c18cf1b-2e78-4989-8d98-28284cc2e49a@gcore.com:80?path=%2Faparat.com&security=none&encryption=none&host=sirkar.com&type=ws#12
