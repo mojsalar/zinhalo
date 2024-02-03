@@ -5,8 +5,4 @@ vless://9e60d388-51e9-4b81-afab-2b7afee91033@104.25.38.239:443?path=%2FOo8ihIMGW
 vless://7a5f2d55-6363-4ee2-be8b-858a65ad81ef@104.25.254.78:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=zara.zinhalo.workers.dev&fp=chrome&type=ws&sni=zara.zinhalo.workers.dev#5
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.59.125:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws&sni=mahi.kosnanatfilterchi.eu.org#6
 vless://9b28c890-296d-411d-a323-2f411e751f00@49.13.170.61:2087?mode=gun&security=reality&encryption=none&pbk=KuZOpuz0L4H-VNikILS8NP9oA6Ra9uTGEZLHH0FODFM&fp=firefox&spx=%2F%40ELiV2RAY-%40ELiV2RAY-%40ELiV2RAY-%40ELiV2RAY&type=grpc&serviceName=&sni=dash.cloudflare.com&sid=83cdb009#7
-vless://0c18cf1b-2e78-4989-8d98-28284cc2e49a@nestle.ir:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=jZX43g3SmwmwYHpyN4aMm3ujuQyYQyVaRh7KGeRTbgJVHpyNpyN4aMujuywRbkZrJVHpyN4aMm32YBmjZX43g3SmwYQyVaRh7KGeRTbgJVHpyN4aMm3ujuywRbkZr2YBmjZX43Bm.cloudcdn.store#8
-vless://416339cf-dadd-4831-987b-80f8434d2ebe@172.67.179.225:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=zs10.livingspringonline.com#9
-vless://2d0c5bf8-53b9-4421-8f9d-eb34c9e4d5c6@185.146.173.20:8080?path=%2Fbackup&security=none&encryption=none&host=QAWDrgrYHuujjIKYHRDed_._.cdn-mci.online&type=ws#10
-vless://config-injectorV2@190.93.247.155:8080?path=%2F&security=none&encryption=none&host=config-injectorV2-V2ray.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B799.tech&type=ws#11
-vless://0c18cf1b-2e78-4989-8d98-28284cc2e49a@gcore.com:80?path=%2Faparat.com&security=none&encryption=none&host=sirkar.com&type=ws#12
+vless://2d0c5bf8-53b9-4421-8f9d-eb34c9e4d5c6@185.146.173.20:8080?path=%2Fbackup&security=none&encryption=none&host=QAWDrgrYHuujjIKYHRDed_._.cdn-mci.online&type=ws#8
