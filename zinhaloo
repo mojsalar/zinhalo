@@ -11,3 +11,5 @@ vless://ba29b687-dc35-4705-ed82-9c79748225b4@146.19.233.85:443?mode=gun&security
 vless://a7deaebd-bd9c-4e57-b605-e4e3b4b6cae9@gcore.com:80?path=%2Faparat.com&security=none&encryption=none&host=sirkar.com&type=ws#11
 vless://6fe6b300-e34f-48d0-971f-0eb53a541ae7@104.21.74.214:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tel.ArV2ray.host#12
 vless://94fd9e77-1804-4d25-a8e1-c5b5ba514063@65.109.203.49:10974?mode=gun&security=reality&encryption=none&pbk=QbLsx0oV7dQVz4wXbm1ggmEVQ_bQKqiWHXa1sjsntGM&fp=chrome&spx=%2F%40ELiV2RAY-%40ELiV2RAY-%40ELiV2RAY-%40ELiV2RAY&type=grpc&serviceName=&sni=Chir&sid=9c55cb07#13
+vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@104.20.109.195:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=tunn.free.hr&type=ws#14
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@172.67.38.130:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#15
