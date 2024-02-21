@@ -2,6 +2,5 @@ vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@cdnjs.com:443?path=%2F%3Fed%3D2048&
 vless://7a5f2d55-6363-4ee2-be8b-858a65ad81ef@104.24.185.137:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=zara.zinhalo.workers.dev&fp=chrome&type=ws&sni=zara.zinhalo.workers.dev#2
 vless://telegram-at-satoshivpn@cdnjs.com:443?path=%2Ft.me%2Fsatoshivpn%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=public.satoshi.mom&fp=chrome&type=ws&sni=satoshi.mom#3
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.64.89.170:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#4
-vless://7a5f2d55-6363-4ee2-be8b-858a65ad81ef@104.25.254.78:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=zara.zinhalo.workers.dev&fp=chrome&type=ws&sni=zara.zinhalo.workers.dev#5
-vless://7a5f2d55-6363-4ee2-be8b-858a65ad81ef@104.21.48.84:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=zara.zinhalo.workers.dev&fp=chrome&type=ws&sni=zara.zinhalo.workers.dev#6
-vless://2d0c5bf8-53b9-4421-8f9d-eb34c9e4d5c6@185.146.173.20:8080?path=%2Fbackup&security=none&encryption=none&host=QAWDrgrYHuujjIKYHRDed_._.cdn-mci.online&type=ws#7
+vless://2d0c5bf8-53b9-4421-8f9d-eb34c9e4d5c6@185.146.173.20:8080?path=%2Fbackup&security=none&encryption=none&host=QAWDrgrYHuujjIKYHRDed_._.cdn-mci.online&type=ws#5
+vless://03223174-6028-41f2-838a-ee28cbebdbcf@5.182.34.12:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=jZX43g3SmwmwYHpyN4aMm3ujuQyYQyVaRh7KGeRTbgJVHpyNpyN4aMujuywRbkZrJVHpyN4aMm32YBmjZX43g3SmwYQyVaRh7KGeRTbgJVHpyN4aMm3ujuywRbkZr2YBmjZX43Bm.clOudCdn.store#6
