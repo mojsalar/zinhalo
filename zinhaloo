@@ -1,5 +1,5 @@
 vless://569da474-892b-40fe-9a77-910ad2c0b2ce@104.21.59.95:2096?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=delsa.turbo7.workers.dev&fp=randomized&type=ws&sni=delsa.turbo7.workers.dev#%E2%9A%98%EA%99%B0%E1%9C%B4%EA%AF%AD%E2%9D%A5%F0%9D%90%8C%F0%9D%90%8E%F0%9D%90%89%E2%9D%A5%E1%AD%AC%E2%80%8C%E2%9A%98%EA%99%B0
-vless://9ab675a7-f457-489d-abf8-8066296488c8@zula.ir:8080?path=%2F&security=none&encryption=none&host=zoi.neth.pf.cloudcdn.store&type=ws#1
+vless://c1a96bd9-84ea-456d-9263-7815cb61ade5@143.110.172.127:52547?security=none&encryption=none&headerType=none&type=tcp#1
 vless://569da474-892b-40fe-9a77-910ad2c0b2ce@172.64.89.170:2083?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=delsa.turbo7.workers.dev&fp=edge&type=ws&sni=delsa.turbo7.workers.dev#2
 vless://569da474-892b-40fe-9a77-910ad2c0b2ce@104.27.39.113:443?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=delsa.turbo7.workers.dev&fp=randomized&type=ws&sni=delsa.turbo7.workers.dev#3
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.64.89.170:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#4
