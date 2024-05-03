@@ -2,4 +2,4 @@ vless://569da474-892b-40fe-9a77-910ad2c0b2ce@104.21.59.95:2096?path=vless-ws%2F%
 vless://71c4ab78-6472-4ebd-98a7-6197db7c9223@www.zula.ir:2096?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=zoro.tnwwdfv.wOrKErs.dEV&fp=firefox&type=ws&sni=zoro.tnwwdfv.wOrKErs.dEV#1
 vless://569da474-892b-40fe-9a77-910ad2c0b2ce@172.64.89.170:2083?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=delsa.turbo7.workers.dev&fp=edge&type=ws&sni=delsa.turbo7.workers.dev#2
 vless://569da474-892b-40fe-9a77-910ad2c0b2ce@104.27.39.113:443?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=delsa.turbo7.workers.dev&fp=randomized&type=ws&sni=delsa.turbo7.workers.dev#3
-vless://c1a96bd9-84ea-456d-9263-7815cb61ade5@167.99.194.229:52547?security=none&encryption=none&headerType=none&type=tcp#4
+
