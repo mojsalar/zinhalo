@@ -2,6 +2,6 @@ vless://569da474-892b-40fe-9a77-910ad2c0b2ce@104.21.59.95:2096?path=vless-ws%2F%
 vless://569da474-892b-40fe-9a77-910ad2c0b2ce@www.zula.ir:8443?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=delsa.turbo7.workers.dev&fp=randomized&type=ws&sni=delsa.turbo7.workers.dev#1
 vless://569da474-892b-40fe-9a77-910ad2c0b2ce@172.64.89.170:2083?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=delsa.turbo7.workers.dev&fp=edge&type=ws&sni=delsa.turbo7.workers.dev#2
 vless://569da474-892b-40fe-9a77-910ad2c0b2ce@104.27.39.113:443?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=delsa.turbo7.workers.dev&fp=randomized&type=ws&sni=delsa.turbo7.workers.dev#3
-vless://569da474-892b-40fe-9a77-910ad2c0b2ce@www.zula.ir:8443?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=delsa.turbo7.workers.dev&fp=randomized&type=ws&sni=delsa.turbo7.workers.dev#4
+vless://569da474-892b-40fe-9a77-910ad2c0b2ce@www.zula.ir:2087?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=delsa.turbo7.workers.dev&fp=android&type=ws&sni=delsa.turbo7.workers.dev#4
 vless://569da474-892b-40fe-9a77-910ad2c0b2ce@www.zula.ir:2053?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=delsa.turbo7.workers.dev&fp=safari&type=ws&sni=delsa.turbo7.workers.dev#5
 
